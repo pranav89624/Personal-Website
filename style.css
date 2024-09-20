@@ -53,6 +53,7 @@
     height: 30vh;
 }
 
+
 @media (max-width: 675px){
     .top-container{
         display: grid;
